@@ -3,6 +3,7 @@
 ### Remote Browser Automation with Tandem + Tailscale
 
 A practical hack for making a local-first browser talk to a remote OpenClaw brain without moving the real system body.
+
 ## TL;DR
 
 - the real OpenClaw runtime stays on the old machine
